@@ -4,4 +4,5 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+ <display-name>new lines are added as per the request </display-name>
 </web-app>
