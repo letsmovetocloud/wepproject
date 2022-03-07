@@ -3,5 +3,9 @@
  "http://java.sun.com/dtd/web-app_2_3.dtd" >
 
 <web-app>
-  <display-name>Archetype Created Web Application new file </display-name>
+feature
+  <display-name>Archetype Created Web Application</display-name>
+ <display-name>new lines are added as per the request </display-name>
+ <display-name>Archetype Created Web Application new file </display-name>
+main
 </web-app>
